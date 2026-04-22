@@ -21,7 +21,7 @@ This project was built to practice modern UI techniques and advanced CSS effects
 [(Live link)](https://aseya1122.github.io/aurora-glass-cards-ui/)
 
 ## Preview
-(preview.gif (2).gif)
+[(preview)](https://github.com/Aseya1122/aurora-glass-cards-ui/blob/main/preview.gif%20(2).gif)
 
 ## What I Learned
 - CSS transforms and transitions
