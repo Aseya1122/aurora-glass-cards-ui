@@ -4,7 +4,7 @@ A modern glassmorphism-based card UI featuring glowing hover effects and 3D tilt
 
 ## Preview
 
-![Preview](preview.gif)
+!preview.gif (2).gif
 
 ##  Tech Stack
 - HTML
