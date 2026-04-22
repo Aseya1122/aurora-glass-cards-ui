@@ -18,7 +18,7 @@ A modern and interactive card UI built using HTML, CSS, and JavaScript.
 This project was built to practice modern UI techniques and advanced CSS effects.
 
 ## 🔗 Live Demo
-[(Add your GitHub Pages link here)](https://aseya1122.github.io/aurora-glass-cards-ui/)
+[(Live link)](https://aseya1122.github.io/aurora-glass-cards-ui/)
 
 ## Preview
 (preview.gif (2).gif)
